@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+    <string name="show_weather">Показать погоду</string>
+    <string name="input_cty">Введите название города или Индекс</string>
+</resources>
